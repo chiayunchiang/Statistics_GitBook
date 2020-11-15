@@ -32,3 +32,9 @@ For a random variable $$X$$, which distributed normally with mean $$\mu$$ and va
 Standard Normal Distribution:   
 Normal distribution with mean = 0, standard devaition = 1 \( $$\mu=0 , \sigma=1$$ \)
 
+
+
+## Reference:
+
+
+

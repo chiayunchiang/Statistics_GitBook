@@ -1,4 +1,4 @@
-# Purpose of this project
+# Purpose of Article
 
 Purpose: 
 

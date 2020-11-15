@@ -32,9 +32,23 @@ For a random variable $$X$$, which distributed normally with mean $$\mu$$ and va
 Standard Normal Distribution:   
 Normal distribution with mean = 0, standard devaition = 1 \( $$\mu=0 , \sigma=1$$ \)
 
+### Why we need standard normal distribution?
+
+There is numerous normal distribution with different $$\mu $$and $$\sigma $$. It is hard to know each probability under their curve. As a result, by calculating the z-score, we **standardize** the normal distribution in the same format, so that we can:  
+\(1\) easily calculate the area under each curve using one table reference  
+\(2\) compare two different normal distribution using the z-score
+
+### Standard Score \(Z-score\)
+
+
+
+
+
 
 
 ## Reference:
 
-
-
+* Bluman, A. G. \(2018\). Elementary statistics: A step by step approach. New York, NY: McGraw-Hill Higher Education.
+* Normal distribution. Wikipedia. Retrieved from:  [https://en.wikipedia.org/wiki/Normal\_distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+* Standard Score. Laerd statistic. Retrieved from: [https://statistics.laerd.com/statistical-guides/standard-score](https://statistics.laerd.com/statistical-guides/standard-score.php#:~:text=The%20standard%20score%20%28more%20commonly,are%20from%20different%20normal%20distributions.)
+* 

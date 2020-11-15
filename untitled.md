@@ -59,7 +59,9 @@ Notation: $$Z \sim N(0,1) $$
 
 $$\psi(x)=\dfrac{1}{\sqrt{2\pi}}e^{-\frac{1}{2}x^2}$$ 
 
+## Critical Concept
 
+For a continuous distribution, the probability of any exact value is 0 \(since there's no "area" under a exact value\). As a result, $$P(a<z<b) = P(a\le z\le b)$$ 
 
 ## Reference:
 

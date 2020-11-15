@@ -50,6 +50,15 @@ $$Z=\dfrac{X-\mu}{\sigma}$$
 
 Notation: $$Z \sim N(0,1) $$ 
 
+### Properties
+
+* It is symmetry with respect to 0.
+* As the standard deviation is 1, we have: - $$P(-1<z<1)=0.6827$$  - $$P(-2<z<2)=0.9545$$  - $$P(-3<z<3)=0.9973$$ 
+
+### Mathematical Formula
+
+$$\psi(x)=\dfrac{1}{\sqrt{2\pi}}e^{-\frac{1}{2}x^2}$$ 
+
 
 
 ## Reference:

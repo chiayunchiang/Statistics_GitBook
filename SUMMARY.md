@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Purpose of this project](README.md)
 

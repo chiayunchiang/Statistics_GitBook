@@ -2,5 +2,5 @@
 
 * [Purpose of this project](README.md)
 * [Normal Distribution](untitled.md)
-* [Untitled](untitled-1.md)
+* [Normal Distribution\_Rcode](untitled-1.md)
 

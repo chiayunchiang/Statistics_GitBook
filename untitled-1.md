@@ -1,2 +1,2 @@
-# Untitled
+# Normal Distribution\_Rcode
 

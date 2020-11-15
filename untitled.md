@@ -40,9 +40,15 @@ There is numerous normal distribution with different $$\mu $$and $$\sigma $$. It
 
 ### Standard Score \(Z-score\)
 
+For any normally distributed variable $$X$$ , we can transform it to z-score:
 
+$$Z=\dfrac{X-\mu}{\sigma}$$ 
 
+* $$X$$ : variable value
+* $$\mu$$ : mean
+* $$\sigma$$ : standard deviation
 
+Notation: $$Z \sim N(0,1) $$ 
 
 
 
